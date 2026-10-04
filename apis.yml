@@ -39,7 +39,6 @@ apis:
   - name: Russian Calendar
     description: "Check if a date is a Russian holiday or not"
     humanURL: https://github.com/egno/work-calendar
-    baseURL: https://github.com/egno/work-calendar
     tags:
       - Calendar
     properties:
